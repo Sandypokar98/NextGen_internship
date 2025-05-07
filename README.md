@@ -39,29 +39,6 @@ To begin Python programming and build a strong foundation through core syntax, c
 
 ---
 
-## 💻 Code Snippets (Examples)
-
-```python
-# Palindrome Checker
-def is_palindrome(n):
-    return str(n) == str(n)[::-1]
-```
-
-```python
-# Group Employees by Department
-employees = [{'name': 'John', 'dept': 'HR'}, {'name': 'Eve', 'dept': 'IT'}]
-dept_dict = {}
-for emp in employees:
-    dept_dict.setdefault(emp['dept'], []).append(emp['name'])
-```
-
-```python
-# Power Function
-def calculate_power(base, exponent):
-    return base ** exponent
-```
-
----
 
 ## 🧪 Challenges Faced
 
@@ -106,7 +83,3 @@ def calculate_power(base, exponent):
 ```
 
 ---
-
-## 🚨 Note
-
-> This repository contains beginner-friendly examples to help understand Python fundamentals through practical implementation. Feel free to explore the notebooks and adapt the code for your learning.
