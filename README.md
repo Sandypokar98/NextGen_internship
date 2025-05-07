@@ -75,7 +75,7 @@ To begin Python programming and build a strong foundation through core syntax, c
 ## 📁 Repository Structure
 
 ```
-὜ week1/
+὜ NextGen_internship_week1/
 ├── 📓 NextGen_week1_task1.ipynb
 ├── 📓 NextGen_week1_task2.ipynb
 ├── 📄 Internship Weekly Report week1.docx
